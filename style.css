@@ -1,0 +1,18 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+#wrapper{
+    text-align: center;
+    margin-top: 14%;
+}
+#start{
+    background-color: red;
+    color: #212121;
+    font-size: large;
+}
+#stop{
+    background-color: blue;
+    color: yellow;
+    font-size: large;
+}
